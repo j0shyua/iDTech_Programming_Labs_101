@@ -1,0 +1,56 @@
+You enter a dark and mysterious cave. The paths possible are North, East, and West. Which way do you want to go?
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1 NORTH: Room has one path going east. The gravel beneath your feet looks like there's been many peeople walking here before.
+
+2 	EAST: You walk into a larger cave with exits to the north and east. Both are equally dark. Which way do you want to go?
+
+3		NORTH: There is the slightest breeze coming from ahead of you. There is also a dark room to the right of you. Where do you want to go?
+		
+4			NORTH: You see a faint light coming from the east.
+			
+5				EAST: The light gets stronger.
+				
+6					EAST: You reach a last split in the cave system. You could go up to the dark room towards the north, or exit east.
+					
+7						EAST: You step out into the bright light and start heading towards the signs of civilization nearby.
+					
+8						NORTH: You look around and suddenly a huge monstrosity blocks the exit. You instantly know it's not friendly. GAME OVER
+
+9	EAST: The room is dark and musty. You bump around and you can feel and exit to the north.
+
+10		NORTH: There appears to be a rusty knife on the ground. You pick it up and head out the west.
+		
+11		WEST: Same path as line 3	
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1 EAST: The room has one path going east. It seems to be fairly clean.
+
+2	EAST: You continue into another dark room east.
+
+3	EAST: This rooom has the faintest breeze coming from the north. There is also very large, dark room to the east. Which way do you want to go?
+
+4		NORTH: The room has some strange stains on the wall. You hurrily exit through the only available one in the north.
+
+5			NORTH: You come to a split in the cave system. You could either go west or east. Which direction?
+				
+6				WEST: You walk around for a while, and then accidentally trip on a rock on the ground. You hit your head hard against the wall and pass out. GAME OVER.
+
+7				EAST: You see light coming through a pile of rocks to the east. You desperately dig your way out....... Congratulations, you made it out of the cave!
+
+8		EAST: You stumble around blindly and suddenly fall through a deep hole in the ground you didn't see. Crunch. GAME OVER.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1 WEST: The room has one path going north. There appears to be bones on the ground? You quickly head towards the exit towards the north.
+
+2 NORTH: The room is very damp and musty. There's an exit to the west and north. Which way do you want to go?
+
+3	WEST: The room is dark and mysterious. You suddenlly hear a sound, and a rabid dog starts attacking you. You try to fight it off but you start losing consciousness. GAME OVER.
+
+4	NORTH: For some reason, the cave appears to get darker. You continue forward towards the only exit.
+
+5	NORTH: You find a pile of old weapons in front of you. Upon closer inspection, they are covered in blood. Before you can run, you get knocked out by an unkown figure. GAME OVER.
+
