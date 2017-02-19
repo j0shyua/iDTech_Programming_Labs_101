@@ -1,0 +1,41 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    int userInput;
+
+    do
+    {
+    cout << ("Please enter a positive integer.") << endl;
+    cin >> userInput;
+    }
+    while userInput < 0 || userInput != int;
+
+    int finalSum = 0;
+
+    for (int i = userInput; i > 0; i--)
+    {
+    finalSum = (finalSum + userInput);
+    userInput--;
+    }
+
+    cout << ("The total is ") << finalSum << endl;
+)
+
+
+
+//Declare user input variable
+
+	// Loop to prompt user if the value entered is not valid
+	// Ask for user input.
+	// Store user input in variable.
+
+	// Declare another variable which will be the final sum
+
+	//For loop that repeats as many times as the user input
+	// Decrease the user input (userInput--)
+	// Add the userInput to the final sum variable
+
+	// Print out the final sum
